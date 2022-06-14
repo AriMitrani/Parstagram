@@ -61,7 +61,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private void goMainActivity() {
-        Intent i = new Intent(this, MainActivity.class);
+        Intent i = new Intent(this, TimelineActivity.class);
         startActivity(i);
         finish();
     }

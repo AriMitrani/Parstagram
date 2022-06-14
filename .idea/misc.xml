@@ -5,7 +5,12 @@
       <map>
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.29393115942028986" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21822916666666667" />
+        <entry key="app/src/main/res/layout/activity_timeline.xml" value="0.203125" />
         <entry key="app/src/main/res/layout/loading_screen.xml" value="0.2171875" />
+        <entry key="app/src/main/res/layout/post_layout.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/menu/menu_main.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/xml/fileprovider.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/xml/menu_main.xml" value="0.203125" />
       </map>
     </option>
   </component>
