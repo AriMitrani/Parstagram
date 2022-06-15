@@ -15,23 +15,23 @@ The following **required** functionality is completed:
 - [x] User can log out of his or her account
 - [x] User can take a photo, add a caption, and post it to "Instagram"
 - [x] User can view the last 20 posts submitted to "Instagram"
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram"
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram"
 - [ ] User can tap a post to go to a Post Details activity, which includes timestamp and caption.
 - [x] User sees app icon in home screen
 
 The following **stretch** features are implemented:
 
 - [ ] Style the login page to look like the real Instagram login page.
-- [ ] Style the feed to look like the real Instagram feed.
+- [x] Style the feed to look like the real Instagram feed.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using endless scrolling.
-- [ ] User should switch between different tabs using fragments and a Bottom Navigation View.
-  - [ ] Feed Tab (to view all posts from all users)
-  - [ ] Capture Tab (to make a new post using the Camera and Photo Gallery)
+- [x] User should switch between different tabs using fragments and a Bottom Navigation View.
+  - [x] Feed Tab (to view all posts from all users)
+  - [x] Capture Tab (to make a new post using the Camera and Photo Gallery)
   - [ ] Profile Tab (to view only the current user's posts, in a grid)
 - [ ] Show the username and creation time for each post
 - User Profiles:
   - [ ] Allow the logged in user to add a profile photo
-  - [ ] Display the profile photo with each post
+  - [x] Display the profile photo with each post
   - [ ] Tapping on a post's username or profile photo goes to that user's profile page
   - [ ] User Profile shows posts in a grid
 - [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse
