@@ -2,7 +2,7 @@
 
 **Parstagram** is a photo sharing app using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **30** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **stretch** features are implemented:
 - [x] User should switch between different tabs using fragments and a Bottom Navigation View.
   - [x] Feed Tab (to view all posts from all users)
   - [x] Capture Tab (to make a new post using the Camera and Photo Gallery)
-  - [x] Profile Tab (to view only the current user's posts, in a grid)
+  - [x] Profile Tab (to view only the current user's posts, in a grid) //small bug here where the RV keeps going
 - [x] Show the username and creation time for each post
 - User Profiles:
   - [ ] Allow the logged in user to add a profile photo
@@ -66,7 +66,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I tried to implement the addition of a profile photo, but getting the API to change userData had to happen in the cloud, and there was an issue linking my cloudcode to AndroidStudio. Likes and comments were also not something I was able to implement because of my inability to update user objects remotely. However, the rest of the project other than a small hitch with my RecyclerView went very well!
 
 ## License
 
