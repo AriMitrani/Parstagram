@@ -42,12 +42,12 @@ The following **additional** features are implemented:
 
 - [x] Can open expanded view of posts from profile view
 - [x] Circular profile photos
-- [ ] Post page looks like Instagram's post page
+- [x] Post page stylized
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. How to implement likes, comments
+2. Cloud functions/updating User object
 
 ## Video Walkthrough
 
@@ -70,7 +70,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Ariela Mitrani]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
